@@ -1,4 +1,5 @@
-# User Management using Node, Express, and MongoDB
+# author CHAITANYA VANGIPURAPU 
+# User Management using Node, Express, and MongoDB 
 
 This is a simple user management API that allows you to perform <strong>CRUD</strong> (create, read, update, delete) operations on user data. The API is built using <strong>Node.js</strong>, <strong>Express</strong>, and <strong>MongoDB</strong>, and uses <strong>EJS</strong> for rendering views.
 
