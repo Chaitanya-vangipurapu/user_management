@@ -6,20 +6,6 @@ This is a simple user management API that allows you to perform <strong>CRUD</st
 - Create, read, update, and delete user data
 - No authentication and authorization
 - Deployed on Vercel
-# Installation
-To run this API on your local machine, you will need to have Node.js and MongoDB installed. Once you have these installed, follow these steps:
-
-1. Clone this repository
-2. Run  `npm install` to install dependencies
-3. Create a `.env` file with your MongoDB connection string
-4. Run `npm start` to start the API
-# Usage
-Once the API is running, you can use it to perform CRUD operations on user data. 
-# Contributing
-Contributions are welcome! If you'd like to contribute to this project, please create a pull request with your changes.
-
-# License
-This project is licensed under the MIT license. See the LICENSE file for more details.
 
 # Technologies used
 * This project was built using <strong>Node.js and Express</strong>, two popular open-source technologies for building web applications with JavaScript.
